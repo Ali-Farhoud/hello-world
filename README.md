@@ -1,3 +1,3 @@
 # hello-world
-This is the start of something...Hopefully!
-ryan zaibak is a simp <3brothers><fanboy>
+This is the first repo I created. On my way to learn and understand github.
+
